@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# Spotify Clone
+
+User Authentication
+
+Spotify API
+
+Responsive Design
+
+Material UI (icons)
+
+React Context API (Redux)
+
+React Hooks Functional
+
+React Stack
+
+Hosting on Firebase
+
+Client ID 3bea25e5400842c19833f875050baf2c
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
