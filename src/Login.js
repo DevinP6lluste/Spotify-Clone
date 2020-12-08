@@ -12,7 +12,7 @@ function Login() {
             <a href={loginUrl}>LOGIN WITH SPOTIFY</a>
             
         </div>
-    )
+    );
 }
 
 export default Login;
