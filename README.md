@@ -16,8 +16,6 @@ React Stack
 
 Hosting on Firebase
 
-Client ID 3bea25e5400842c19833f875050baf2c
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
